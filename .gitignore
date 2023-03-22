@@ -1,1 +1,23 @@
 tests
+*.code-workspace
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# virtual environment
+venv/
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled python files
+*.pyc
+
+# Logs
+*.log
+
+# Miscellaneous files
+*.DS_Store
